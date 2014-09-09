@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Velocity.js",
+        "url": "http://velocityjs.org",
+        "description": "Re-implementation of jQuery's $.animate() that adds 20x the speed while also drastically improving the UI animation workflow."
+    },
+    {
+        "name": "Animo.js",
+        "url": "http://labs.bigroomstudios.com/libraries/animo-js",
+        "description": "A powerful little tool for managing CSS animations"
+    },
+    {
+        "name": "Stylie",
+        "url": "http://jeremyckahn.github.com/stylie/"
+
+    },
+    {
+        "name": "animate.less",
+        "url": "https://github.com/machito/animate.less",
+        "description": "animate.less is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness."
+    },
+    {
+        "name": "Canvas Advanced Animation Toolkit",
+        "url": "http://hyperandroid.github.com/CAAT/",
+        "description": "Canvas Advanced Animation Toolkit is an scene graph director-based animation framework for javascript based in the concept of a timeline."
+    },
+    {
+        "name": "tween.js",
+        "url": "https://github.com/sole/tween.js",
+        "description": "Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations."
+    },
+    {
+        "name": "Janis",
+        "url": "https://github.com/MikeMcTiernan/Janis",
+        "description": "Janis is a lightweight JavaScript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices."
+    },
+    {
+        "name": "Rekapi",
+        "url": "http://rekapi.com/",
+        "description": "A keyframe animation library for JavaScript"
+    },
+    {
+        "name": "CanvasScript3",
+        "url": "http://www.arahaya.com/canvasscript3/",
+        "description": "CanvasScript3 is a JavaScript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc."
+    },
+    {
+        "name": "Shifty",
+        "url": "http://jeremyckahn.github.com/shifty/",
+        "description": "Shifty is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs."
+    },
+    {
+        "name": "emile.js",
+        "url": "https://github.com/madrobby/emile",
+        "description": "emile.js is a no-frills stand-alone CSS animation JavaScript framework."
+    },
+    {
+        "name": "Firmin",
+        "url": "http://extralogical.net/projects/firmin/",
+        "description": "Firmin is a JavaScript animation library using CSS transforms and transitions."
+    },
+    {
+        "name": "Keanu",
+        "url": "https://github.com/wambotron/Keanu",
+        "description": "Keanu is a micro-lib for animation on Canvas/JS."
+    }
+]
