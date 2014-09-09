@@ -1,4 +1,4 @@
-frontendbookmarks
-=================
+grunt-project
+=============
 
-Collection of front-end bookmarks
+Basic project with Grunt
